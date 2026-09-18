@@ -1,0 +1,18 @@
+site,category,GPTBot,ClaudeBot,PerplexityBot,Google-Extended,CCBot,Applebot-Extended,status_code,error
+https://figma.com,SaaS,Blocked,Blocked,Allowed (explicitly listed),Blocked,Blocked,Allowed (not mentioned),200,
+https://hm.com,E-commerce,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://asos.com,E-commerce,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://youtube.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://reddit.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://pinterest.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://wikipedia.org,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://github.com,Mixed/General,Allowed (explicitly listed),Allowed (explicitly listed),Partially Blocked,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://spotify.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://netflix.com,Mixed/General,Allowed (explicitly listed),Allowed (explicitly listed),Partially Blocked,Allowed (explicitly listed),Allowed (not mentioned),Allowed (not mentioned),200,
+https://airbnb.com,Mixed/General,Partially Blocked,Partially Blocked,Partially Blocked,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://booking.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://tripadvisor.com,Mixed/General,Allowed (explicitly listed),Allowed (explicitly listed),Allowed (explicitly listed),Allowed (explicitly listed),Allowed (explicitly listed),Allowed (explicitly listed),200,
+https://quora.com,Mixed/General,Error,Error,Error,Error,Error,Error,Failed,Failed after 3 attempts
+https://stackoverflow.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),418,
+https://wordpress.com,Mixed/General,Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),Allowed (not mentioned),200,
+https://tumblr.com,Mixed/General,Error,Error,Error,Error,Error,Error,Failed,Failed after 3 attempts
